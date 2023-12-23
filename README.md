@@ -3,7 +3,7 @@ the digesting of the 42 seoul
 
 - the white paper is from https://whitepaper.innovationacademy.kr/index.html
 
-- the member of the Ignite 42 and topic picture are from https://whitepaper.innovationacademy.kr/3.html
+- the picture of Ignite 42 members and topics are from https://whitepaper.innovationacademy.kr/3.html
 
 <img src="https://whitepaper.innovationacademy.kr/common/img/chap3/87-01.jpg">
 
